@@ -1,0 +1,38 @@
+
+.dialogs{
+display: grid;
+grid-template-columns: 2fr 10fr;
+font-size: 20px;
+color: aliceblue;
+padding: 8px;
+justify-items: start;
+align-items: center;
+
+}
+
+
+.dialogs_name a{
+  color: aliceblue;
+
+ 
+}
+.dialogs_name a:hover {
+    color: #C692FB;
+}
+
+.dialogs_avatar_male {
+  height: 30px;
+  width: 30px;
+  background: rgb(253, 160, 255);
+  border-radius: 50%; 
+  margin-right: 10px;
+}
+
+.dialogs_avatar_female {
+  height: 30px;
+  width: 30px;
+  background: rgb(160, 169, 255);
+  border-radius: 50%; 
+  margin-right: 10px;
+}
+

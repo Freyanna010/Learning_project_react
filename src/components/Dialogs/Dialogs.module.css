@@ -1,0 +1,16 @@
+.dialogs_block{
+    display:grid;
+    grid-template-columns: 2fr 10fr;
+    color: rgb(250, 240, 255);
+}
+
+.dialogs_messages {
+    display: grid;
+    
+}
+
+
+
+
+
+
